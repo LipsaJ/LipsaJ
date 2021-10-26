@@ -10,7 +10,7 @@
 - Find my visualizations here: [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">][tableau]
 - Pronouns: She/Hers.
 
-#### Find my DS and BI projects below:
+#### To learn more about my projects, please select the badges:
 
 - This is an analysis of COVID19 vaccine tweets: [<img src="https://img.shields.io/badge/COVID19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitterCode]
 - PowerBI Visualizations for CSEdResearch's historical data: [<img src="https://img.shields.io/badge/CSEdResearch-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">][PowerBICode]
