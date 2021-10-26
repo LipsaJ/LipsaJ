@@ -8,7 +8,7 @@
 - I’m currently working on multiple data engineering and BI projects.
 - How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">][linkedin]
 - Find my visualizations here: [<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">][tableau]
-- Pronouns: She/Hers
+- Pronouns: She/Hers.
 
 #### Find my personal projects below
 
