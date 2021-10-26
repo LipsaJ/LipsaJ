@@ -12,8 +12,10 @@
 
 #### Find my personal projects below
 
+- This is an analysis of COVID19 vaccine tweets: [<img src="https://img.shields.io/badge/COVID19-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitterCode]
+- PowerBI Visualizations for CSEdResearch's historical data: [<img src="https://img.shields.io/badge/CSEdResearch-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">][PowerBICode]
 - The repository for all the python codes: [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">][PythonCodes]
-- This is an analysis of COVID19 vaccine tweets: [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitterCode]
+- Course project for Online athletic clothes database creation as well as visualization in Tableau: [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">][SportsCode]
 
 
 #### Github Stats
@@ -33,3 +35,5 @@ Project links
 -->
 [PythonCodes]: https://github.com/LipsaJ/PythonPrograms
 [twitterCode]: https://github.com/LipsaJ/COVID-Analysis
+[PowerBICode]: https://github.com/LipsaJ/CSEdResearch---Report/blob/main/Landscape%20Report%201.pdf
+[SportsCode]: https://public.tableau.com/app/profile/lipsa7205/viz/IMT600_16228408878540/Customer_product_orders_dashboard
