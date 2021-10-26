@@ -12,8 +12,8 @@
 
 #### Find my personal projects below
 
-The repository for all the python codes: [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">][PythonCodes]
-This is an analysis of COVID19 vaccine tweets: [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitterCode]
+- The repository for all the python codes: [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">][PythonCodes]
+- This is an analysis of COVID19 vaccine tweets: [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">][twitterCode]
 
 
 #### Github Stats
