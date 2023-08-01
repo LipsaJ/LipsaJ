@@ -16,10 +16,10 @@
 - Course project for Online athletic clothes database creation as well as visualization in Tableau: [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">][SportsCode]
 - The repository for all the python codes: [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">][PythonCodes]
 
-
+<!-- 
 #### Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LipsaJ&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 #### Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipsaJ&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
